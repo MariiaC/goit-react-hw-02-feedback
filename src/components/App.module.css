@@ -1,0 +1,10 @@
+.container {
+  background-color: lemonchiffon;
+  border: 2px solid transparent;
+  border-radius: 5px;
+  display: block;
+  text-align: center;
+  margin: 20px auto;
+  padding: 20px;
+  width: 700px;
+}
